@@ -1,0 +1,6 @@
+{
+  "name": "Indian Sign Language Recognition System Project Hub",
+  "description": "Comprehensive project report, interactive slide-deck presentation, architecture and UML diagrams, and an AI co-writer chatbot for a Web-Based Indian Sign Language (ISL) Recognition System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
